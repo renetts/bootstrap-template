@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-template",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "bootstrap": "^5.3.5",
+    "grunt": "^1.6.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^4.0.0",
+    "sass": "^1.86.3"
+  }
+}

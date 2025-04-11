@@ -1,0 +1,16 @@
+// src/scss/_custom-variables.scss
+
+// Importa las funciones y mixins de Bootstrap (necesario para usar las variables)
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/mixins";
+
+// Define tus variables personalizadas
+// $primary: #0d6efd; // Cambia el color primario a azul (ejemplo)
+$primary: #6610f2;
+
+// Puedes sobreescribir cualquier otra variable de Bootstrap aquí
+// Por ejemplo, para cambiar la tipografía base:
+// $font-family-base: 'Roboto', sans-serif;
+
+
+

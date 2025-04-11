@@ -1,0 +1,19 @@
+$osfem_primary_color: #380b20;
+
+
+.btn_pdf {
+  background: #cc494a;
+  text-transform: uppercase;
+}
+
+.btn_pdf:hover {
+  cursor: pointer;
+  background: #910024;
+}
+
+.accordion_button_avance {
+  background: $osfem_primary_color !important;
+  span {
+    color: #fff;
+  }
+}
